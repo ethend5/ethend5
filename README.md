@@ -30,9 +30,9 @@
 
 ### Organizations
 
-- **Alpha Kappa Psi** — Professional Business Fraternity
-- **180 Degrees Consulting** — UCSC Chapter
-- **Formula Slug** — UCSC Formula SAE Team
+- **Alpha Kappa Psi**: Professional Business Fraternity
+- **180 Degrees Consulting**: UCSC Chapter
+- **Formula Slug**: UCSC Formula SAE Team
 
 ---
 
