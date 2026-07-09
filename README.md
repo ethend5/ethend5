@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;Electrical+Engineering+%40+UCSC;Building+hardware+%2B+firmware+that+works;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;Electrical+Engineering+%40+UCSC;Building+hardware+%2B+firmware;Always+learning+something+new" alt="Typing SVG" />
 
 </div>
 
