@@ -8,7 +8,7 @@
 <a href="https://ethendhanaraj.com">
   <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:ethendhanaraj@gmail.com">
   <img src="https://img.shields.io/badge/Email-1B2A4A?style=for-the-badge&logo=gmail&logoColor=36BCF7" />
 </a>
 
@@ -20,17 +20,15 @@
 
 ---
 
-### 🔧 About Me
+### About Me
 
-- 🎓 Electrical Engineering student at **UC Santa Cruz**
-- ⚡ Interested in embedded systems, circuit design, and firmware development
-- 🛠️ Currently building projects at the intersection of hardware and software
-- 🌐 Portfolio: [ethendhanaraj.com](https://ethendhanaraj.com)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ethen-dhanaraj/)
+- Electrical Engineering student at **UC Santa Cruz**
+- Interested in embedded systems, circuit design, and firmware development
+- Currently building projects at the intersection of hardware and software
 
 ---
 
-### 🎯 Organizations
+### Organizations
 
 - **Alpha Kappa Psi** — Professional Business Fraternity
 - **180 Degrees Consulting** — UCSC Chapter
@@ -38,7 +36,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -55,7 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -68,23 +66,11 @@
 
 ---
 
-### 🏆 Trophies
+### Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ethend5&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- snake -->
-<img src="https://raw.githubusercontent.com/ethend5/ethend5/output/snake-dark.svg" alt="snake animation" />
-<!-- snake -->
 
 </div>
 
