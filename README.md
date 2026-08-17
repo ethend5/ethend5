@@ -57,9 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ethend5&hide_border=true&background=0B1120&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=8FB6E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FB6E0" />
-
-<img src="https://github-stats-extended.vercel.app/api?username=ethend5&show_icons=true&hide_border=true&bg_color=0B1120&title_color=36BCF7&icon_color=36BCF7&text_color=8FB6E0&ring_color=36BCF7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ethend5&hide_border=true&background=0B1120&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=8FB6E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FB6E0" src="https://github-stats-extended.vercel.app/api?username=ethend5&show_icons=true&hide_border=true&bg_color=0B1120&title_color=36BCF7&icon_color=36BCF7&text_color=8FB6E0&ring_color=36BCF7" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ethend5&layout=compact&hide_border=true&bg_color=0B1120&title_color=36BCF7&text_color=8FB6E0" />
 
