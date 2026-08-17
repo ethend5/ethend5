@@ -70,3 +70,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1B2A4A,100:0B1120&height=100&section=footer" width="100%"/>
 
 </div>
+
+### Featured Projects
+<div align="center">
+<a href="https://github.com/ethend5/repo-name">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethend5&repo=repo-name&bg_color=0B1120&title_color=36BCF7&icon_color=36BCF7&text_color=8FB6E0&border_color=36BCF7" />
+</a>
+<a href="https://github.com/ethend5/repo-name-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethend5&repo=repo-name-2&bg_color=0B1120&title_color=36BCF7&icon_color=36BCF7&text_color=8FB6E0&border_color=36BCF7" />
+</a>
+</div>
